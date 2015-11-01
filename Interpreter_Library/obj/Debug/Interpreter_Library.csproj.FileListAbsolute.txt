@@ -1,0 +1,5 @@
+C:\Users\Женя\Desktop\Проекты VS\Interpreter\Interpreter_Library\obj\Debug\Interpreter_Library.csprojResolveAssemblyReference.cache
+C:\Users\Женя\Desktop\Проекты VS\Interpreter\Interpreter_Library\bin\Debug\Interpreter_Library.dll
+C:\Users\Женя\Desktop\Проекты VS\Interpreter\Interpreter_Library\bin\Debug\Interpreter_Library.pdb
+C:\Users\Женя\Desktop\Проекты VS\Interpreter\Interpreter_Library\obj\Debug\Interpreter_Library.dll
+C:\Users\Женя\Desktop\Проекты VS\Interpreter\Interpreter_Library\obj\Debug\Interpreter_Library.pdb

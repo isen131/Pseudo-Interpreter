@@ -1,0 +1,14 @@
+c:\users\crash_000\documents\visual studio 2015\Projects\Interpreter\Interpreter\bin\Debug\Interpreter.exe.config
+c:\users\crash_000\documents\visual studio 2015\Projects\Interpreter\Interpreter\bin\Debug\Interpreter.exe
+c:\users\crash_000\documents\visual studio 2015\Projects\Interpreter\Interpreter\bin\Debug\Interpreter.pdb
+c:\users\crash_000\documents\visual studio 2015\Projects\Interpreter\Interpreter\obj\Debug\Interpreter.csprojResolveAssemblyReference.cache
+c:\users\crash_000\documents\visual studio 2015\Projects\Interpreter\Interpreter\obj\Debug\Interpreter.exe
+c:\users\crash_000\documents\visual studio 2015\Projects\Interpreter\Interpreter\obj\Debug\Interpreter.pdb
+C:\Users\Женя\Desktop\Проекты VS\Interpreter\Interpreter\bin\Debug\Interpreter.exe.config
+C:\Users\Женя\Desktop\Проекты VS\Interpreter\Interpreter\obj\Debug\Interpreter.exe
+C:\Users\Женя\Desktop\Проекты VS\Interpreter\Interpreter\obj\Debug\Interpreter.pdb
+C:\Users\Женя\Desktop\Проекты VS\Interpreter\Interpreter\obj\Debug\Interpreter.csprojResolveAssemblyReference.cache
+C:\Users\Женя\Desktop\Проекты VS\Interpreter\Interpreter\bin\Debug\Interpreter.exe
+C:\Users\Женя\Desktop\Проекты VS\Interpreter\Interpreter\bin\Debug\Interpreter.pdb
+C:\Users\Женя\Desktop\Проекты VS\Interpreter\Interpreter\bin\Debug\Interpreter_Library.dll
+C:\Users\Женя\Desktop\Проекты VS\Interpreter\Interpreter\bin\Debug\Interpreter_Library.pdb
